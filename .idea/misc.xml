@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/day01/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-project02/pom.xml" />
+        <option value="$PROJECT_DIR$/day03/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_stringboot_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/day05_springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/mday05_springboot_demo2/pom.xml" />
+        <option value="H:/黑马学习资料/web/day05-SpringBootWeb请求响应/代码/02. 三层架构拆分/springboot-web-req-resp/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
