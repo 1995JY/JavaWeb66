@@ -13,6 +13,7 @@
         <module name="mday05_springboot_demo2" />
         <module name="springboot-web-req-resp" />
         <module name="day05_springboot" />
+        <module name="mDay08_springboot_mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -22,6 +23,7 @@
       <module name="day05_springboot" target="1.8" />
       <module name="maven-project02" target="1.8" />
       <module name="mday05_springboot_demo2" target="8" />
+      <module name="mDay08_springboot_mybatis" target="8" />
       <module name="springboot-web-req-resp" target="8" />
     </bytecodeTargetLevel>
   </component>
@@ -29,6 +31,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="day04_stringboot_demo" options="-parameters" />
       <module name="day05_springboot" options="-parameters" />
+      <module name="mDay08_springboot_mybatis" options="-parameters" />
       <module name="mday05_springboot_demo2" options="-parameters" />
       <module name="springboot-web-req-resp" options="-parameters" />
     </option>
